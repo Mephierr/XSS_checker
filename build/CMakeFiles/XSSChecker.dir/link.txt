@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/XSSChecker.dir/main.cpp.o -o XSSChecker  /usr/lib/x86_64-linux-gnu/libcurl.so 

@@ -1,0 +1,3 @@
+/home/mephi/Work/XSS_checker/build/CMakeFiles/XSSChecker.dir
+/home/mephi/Work/XSS_checker/build/CMakeFiles/edit_cache.dir
+/home/mephi/Work/XSS_checker/build/CMakeFiles/rebuild_cache.dir
